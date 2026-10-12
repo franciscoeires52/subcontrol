@@ -1,0 +1,6 @@
+{
+  "name": "SubControl",
+  "description": "Controle e gestão inteligente de assinaturas recorrentes, clientes, planos e pagamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
